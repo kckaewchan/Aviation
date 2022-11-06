@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "charts_for_specified_airport",
+			"name": "aviation_charts",
 			"event": [
 				{
 					"listen": "test",
@@ -47,7 +47,7 @@
 			"response": []
 		},
 		{
-			"name": "chart_changes_by_airport_or_chart_name",
+			"name": "aviation_changes",
 			"event": [
 				{
 					"listen": "test",
@@ -88,7 +88,7 @@
 			"response": []
 		},
 		{
-			"name": "airport_by_its_ICAO_or_FAA_identifier",
+			"name": "aviation_airports",
 			"event": [
 				{
 					"listen": "test",
@@ -128,7 +128,7 @@
 			"response": []
 		},
 		{
-			"name": "all_arrivals_and/or_departures_into_airport_on_VATSIM",
+			"name": "aviation_pilots",
 			"event": [
 				{
 					"listen": "test",
